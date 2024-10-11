@@ -1,7 +1,7 @@
 
 <h1 align="center">
     <br>
-    <img src="./imgs/loop.png" alt="Web-BO" width="200">
+    <img src="./imgs/icon.jpeg" alt="ML4Chem" width="200">
     <br>
     AI for Chemistry Starter Resources 
     <br>
