@@ -27,7 +27,7 @@ AI in chemistry.
 
 ## ML foundation
 
-<a href="https://d2l.ai/index.html">Dive into Deep Learning</a> -- online textbook on deep learning; includes code tutorials\\
+<a href="https://d2l.ai/index.html">Dive into Deep Learning</a> -- online textbook on deep learning; includes code tutorials\n
 <a href="https://predictivesciencelab.github.io/data-analytics-se/index.html#">Introduction to Scientific ML</a> -- online textbook with interactive coding tutorials\\
 <a href="https://www.coursera.org/specializations/machine-learning-introduction">(Ng) ML introduction</a> -- online course with video component featuring ML basics\\
 
