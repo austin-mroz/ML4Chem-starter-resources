@@ -36,6 +36,7 @@ AI in chemistry.
 
 * <a href="https://github.com/schwallergroup/ai4chem_course">EPFL AI for Chem</a> -- Course materials for Philip Schwaller's AI for Chemistry course
 * <a href="https://weisscharlesj.github.io/SciCompforChemists/notebooks/introduction/intro.html">Scientific coding for chemists</a> -- online textbook on programming for chemistry; features coding tutorials\\
+* <a href="https://github.com/MaximilianB2/chemengRL">RL for ChemEng</a> -- tutorial notebooks describing RL
 
 ## relevant software packages
 
